@@ -1,0 +1,7 @@
+print("hola" + " mundo")
+print("edad: " + str(20))
+print(str(20) + " años")
+print([1, 2] + [3, 4])
+print("nums: " + str([1, 2]))
+print(2.5 + 2)
+print(True + False)
