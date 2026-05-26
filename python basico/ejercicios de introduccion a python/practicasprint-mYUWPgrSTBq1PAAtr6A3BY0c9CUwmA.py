@@ -1,0 +1,5 @@
+print("hola mundo este es mi primer codigo")
+print("estas son mis primeras operaciones")
+print(1+3)
+print(45-4)
+print(45/5)
